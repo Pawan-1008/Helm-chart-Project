@@ -14,6 +14,8 @@ Charts are created as files laid out in a particular directory tree. They can be
 We used KillerKoda lab for some security concerns.
 
 
+---------------* ARCHITECHTURE *-----------------
+
 ![image](https://github.com/user-attachments/assets/54177ed6-ef04-4990-b689-dd7329e86324)
 
 
