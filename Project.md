@@ -11,6 +11,8 @@ Helm uses a packaging format called charts. A chart is a collection of files tha
 Charts are created as files laid out in a particular directory tree. They can be packaged into versioned archives to be deployed.
 
 
+We used KillerKoda lab for some security concerns.
+
 
 ![image](https://github.com/user-attachments/assets/54177ed6-ef04-4990-b689-dd7329e86324)
 
